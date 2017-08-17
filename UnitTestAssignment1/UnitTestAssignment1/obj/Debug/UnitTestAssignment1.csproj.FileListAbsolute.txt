@@ -1,0 +1,14 @@
+C:\Users\Slips\Dropbox\NMIT-2017\SDV502\Assignment1\UnitTestAssignment1\UnitTestAssignment1\UnitTestAssignment1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Slips\Dropbox\NMIT-2017\SDV502\Assignment1\UnitTestAssignment1\UnitTestAssignment1\UnitTestAssignment1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Slips\Dropbox\NMIT-2017\SDV502\Assignment1\UnitTestAssignment1\UnitTestAssignment1\UnitTestAssignment1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Slips\Dropbox\NMIT-2017\SDV502\Assignment1\UnitTestAssignment1\UnitTestAssignment1\UnitTestAssignment1\bin\Debug\UnitTestAssignment1.dll
+C:\Users\Slips\Dropbox\NMIT-2017\SDV502\Assignment1\UnitTestAssignment1\UnitTestAssignment1\UnitTestAssignment1\bin\Debug\UnitTestAssignment1.pdb
+C:\Users\Slips\Dropbox\NMIT-2017\SDV502\Assignment1\UnitTestAssignment1\UnitTestAssignment1\UnitTestAssignment1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Slips\Dropbox\NMIT-2017\SDV502\Assignment1\UnitTestAssignment1\UnitTestAssignment1\UnitTestAssignment1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Slips\Dropbox\NMIT-2017\SDV502\Assignment1\UnitTestAssignment1\UnitTestAssignment1\UnitTestAssignment1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Slips\Dropbox\NMIT-2017\SDV502\Assignment1\UnitTestAssignment1\UnitTestAssignment1\UnitTestAssignment1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Slips\Dropbox\NMIT-2017\SDV502\Assignment1\UnitTestAssignment1\UnitTestAssignment1\UnitTestAssignment1\obj\Debug\UnitTestAssignment1.csprojResolveAssemblyReference.cache
+C:\Users\Slips\Dropbox\NMIT-2017\SDV502\Assignment1\UnitTestAssignment1\UnitTestAssignment1\UnitTestAssignment1\obj\Debug\UnitTestAssignment1.dll
+C:\Users\Slips\Dropbox\NMIT-2017\SDV502\Assignment1\UnitTestAssignment1\UnitTestAssignment1\UnitTestAssignment1\obj\Debug\UnitTestAssignment1.pdb
+C:\Users\Slips\Dropbox\NMIT-2017\SDV502\Assignment1\UnitTestAssignment1\UnitTestAssignment1\UnitTestAssignment1\bin\Debug\Fastway_Courier_Quote_v2.dll
+C:\Users\Slips\Dropbox\NMIT-2017\SDV502\Assignment1\UnitTestAssignment1\UnitTestAssignment1\UnitTestAssignment1\bin\Debug\Fastway_Courier_Quote_v2.xml
